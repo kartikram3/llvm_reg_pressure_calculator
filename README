@@ -1,3 +1,8 @@
+################################################################################
+# Copyright (c) 2015 Los Alamos National Security, LLC
+# All rights reserved.
+################################################################################
+
 You can calculate LLVM IR max register pressure using this code.
 
 Steps to compile and run the code :
